@@ -1,4 +1,4 @@
 gt-i8190
 ========
 
-stock
+ S3 Mini stock extracted
